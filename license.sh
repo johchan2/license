@@ -1,2 +1,4 @@
 #!/bin/bash
-echo hello world!
+echo Hello world!
+echo IPAddress=$1
+echo SSH_KEY=$2
